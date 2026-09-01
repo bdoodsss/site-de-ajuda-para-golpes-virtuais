@@ -1,18 +1,11 @@
-
-style.css
-Página
-1
-/
-1
-100%
 :root {
-  --primary-color: #0056b3;
-  --bg-color: #f8f9fa;
+  --primary-color: #81052e;
+  --bg-color: #810528;
   --text-color: #212529;
-  --card-bg: #ffffff;
-  --warning-color: #ffc107;
-  --danger-color: #dc3545;
-  --success-color: #28a745;
+  --card-bg: #f0c0dc;
+  --warning-color: #810528;
+  --danger-color: #721136;
+  --success-color: #810528;
 }
 
 * {
@@ -35,7 +28,7 @@ body {
   color: white;
   padding: 4rem 1.5rem;
   text-align: center;
-  border-bottom: 8px solid #003d80;
+  border-bottom: 8px solid #b1769a;
 }
 
 .hero-banner h1 {
@@ -129,10 +122,10 @@ h2 {
   display: flex;
   align-items: flex-start;
   margin-bottom: 1.5rem;
-  background: #fff3cd;
+  background: #810528;
   padding: 25px;
   border-radius: 15px;
-  border: 1px solid #ffeeba;
+  border: 1px solid #810528;
 }
 
 .alert-icon {
